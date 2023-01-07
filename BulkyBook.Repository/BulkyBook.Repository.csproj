@@ -23,4 +23,8 @@
     <ProjectReference Include="..\BulkyBook.Core\BulkyBook.Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+
 </Project>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7dZh5sEigqBCKC4BPVUFhL+tVRKfqJuUHakAayT+orU=",
+  "Hash": "SJzpwobqUje2rZifok7cOFcBlTMmrO3IMKGna+bOEPs=",
   "Source": "BoolkyBook.WebUI",
   "BasePath": "_content/BoolkyBook.WebUI",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\Desktop\\BoolkyBookApp\\BoolkyBookApp.WebUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BoolkyBook.WebUI.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\BoolkyBookApp\\BoolkyBookApp.WebUI\\wwwroot\\css\\bootswatch.css",
+      "SourceId": "BoolkyBook.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\BoolkyBookApp\\BoolkyBookApp.WebUI\\wwwroot\\",
+      "BasePath": "_content/BoolkyBook.WebUI",
+      "RelativePath": "css/bootswatch.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatch.css"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\BoolkyBookApp\\BoolkyBookApp.WebUI\\wwwroot\\css\\site.css",
