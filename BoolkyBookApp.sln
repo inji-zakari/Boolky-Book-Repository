@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolkyBookApp.WebUI", "BoolkyBookApp.WebUI\BoolkyBookApp.WebUI.csproj", "{A298E78D-25A3-4A99-87BE-35EFB5B97E20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoolkyBook.WebUI", "BoolkyBookApp.WebUI\BoolkyBook.WebUI.csproj", "{A298E78D-25A3-4A99-87BE-35EFB5B97E20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Repository", "BulkyBook.Repository\BulkyBook.Repository.csproj", "{9FFDF48C-3D2A-4D01-A3E0-03C6B9B2B5C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.Core", "BulkyBook.Core\BulkyBook.Core.csproj", "{DB3DAD17-042D-4F7F-BB2E-F3B0C37E9DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkyBook.SmsMailSender", "BulkyBook.SmsMailSender\BulkyBook.SmsMailSender.csproj", "{341C7047-77B7-477F-B1C7-61EC43DE460D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{A298E78D-25A3-4A99-87BE-35EFB5B97E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A298E78D-25A3-4A99-87BE-35EFB5B97E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A298E78D-25A3-4A99-87BE-35EFB5B97E20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FFDF48C-3D2A-4D01-A3E0-03C6B9B2B5C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FFDF48C-3D2A-4D01-A3E0-03C6B9B2B5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FFDF48C-3D2A-4D01-A3E0-03C6B9B2B5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FFDF48C-3D2A-4D01-A3E0-03C6B9B2B5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB3DAD17-042D-4F7F-BB2E-F3B0C37E9DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3DAD17-042D-4F7F-BB2E-F3B0C37E9DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3DAD17-042D-4F7F-BB2E-F3B0C37E9DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3DAD17-042D-4F7F-BB2E-F3B0C37E9DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341C7047-77B7-477F-B1C7-61EC43DE460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341C7047-77B7-477F-B1C7-61EC43DE460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341C7047-77B7-477F-B1C7-61EC43DE460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341C7047-77B7-477F-B1C7-61EC43DE460D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

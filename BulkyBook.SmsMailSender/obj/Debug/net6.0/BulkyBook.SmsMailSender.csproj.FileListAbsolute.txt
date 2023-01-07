@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.SmsMailSender.deps.json
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.SmsMailSender.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.SmsMailSender.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.Core.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.Repository.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.Repository.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\bin\Debug\net6.0\BulkyBook.Core.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.AssemblyInfo.cs
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.csproj.CopyComplete
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\refint\BulkyBook.SmsMailSender.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\BulkyBook.SmsMailSender.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.SmsMailSender\obj\Debug\net6.0\ref\BulkyBook.SmsMailSender.dll

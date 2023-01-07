@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Repository.deps.json
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Repository.runtimeconfig.json
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Repository.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Repository.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Core.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\bin\Debug\net6.0\BulkyBook.Core.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.AssemblyInfo.cs
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.csproj.CopyComplete
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\refint\BulkyBook.Repository.dll
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.pdb
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\BulkyBook.Repository.genruntimeconfig.cache
+C:\Users\user\Desktop\BoolkyBookApp\BulkyBook.Repository\obj\Debug\net6.0\ref\BulkyBook.Repository.dll
