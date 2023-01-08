@@ -2,7 +2,7 @@
 @{
     ViewData["Title"] = "Index";
 }
-
+<partial name="_Notifications"></partial>
 <div class="container p-3">
     <div class="row p-3">
         <div class="col-6">
@@ -12,7 +12,7 @@
             <a asp-controller="Category" asp-action="Create" class="btn btn-primary"> <i class="bi bi-plus-circle"></i> &nbsp; Create New Category</a>
         </div>
     </div>
-    <table class="table table-bordered table-striped" style="width=100%">
+    <table class="table table-bordered table-striped" style="width:100%">
         <thead>
             <tr>
                 <th>Category Name</th>
@@ -22,15 +22,23 @@
             </tr>
         </thead>
         <tbody>
-                @foreach (var item in Model)
-                {
-                    <tr>
-                        <td width="35%">@item.Name</td>
-                        <td width="35%">@item.DisplayOrder</td>
-                    <td width="15%"><a class="btn btn-secondary" asp-controller="Category" asp-action="Update"><i class="bi bi-pencil-square"></i> &nbsp; Update</a></td>
-                    <td width="15%"><a class="btn btn-danger" asp-controller="Category" asp-action="Delete" a><i class="bi bi-archive"></i> &nbsp; Delete</a></td>
-                    </tr>
-                }
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td width="35%">@item.Name</td>
+                    <td width="35%">@item.DisplayOrder</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a class="btn btn-primary mx-2" asp-controller="Category" asp-action="Update" asp-route-id="@item.Id"><i class="bi bi-pencil-square"></i> &nbsp; Update</a>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a class="btn btn-danger mx-2" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id" a><i class="bi bi-archive"></i> &nbsp; Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
         </tbody>
     </table>
 </div>

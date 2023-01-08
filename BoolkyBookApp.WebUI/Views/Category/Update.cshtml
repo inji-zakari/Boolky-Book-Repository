@@ -1,0 +1,27 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="p-3">
+    <form class="p-3 form-group" method="post">
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Update Category</h2>
+                <hr />
+            </div>
+            <div class="mb-3">
+                <label asp-for="Name">Name</label>
+                <input asp-for="Name" class="form-control"/>
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="DisplayOrder">Display Order</label>
+                <input asp-for="DisplayOrder" class="form-control"/>
+                <span asp-validation-for="DisplayOrder"></span>
+            </div>
+            <button class="btn btn-primary" asp-controller="Category" asp-action="Update" style="width:150px">Update</button>
+            <a class="btn btn-secondary" asp-controller="Category" asp-action="Index" style="width:150px">Back To List</a>
+        </div>
+    </form>
+</div>
