@@ -1,4 +1,8 @@
+using BulkyBook.Core.IUnitOfWork;
+using BulkyBook.Core.Repositories;
 using BulkyBook.Repository;
+using BulkyBook.Repository.Repositories;
+using BulkyBook.Repository.UnitOfWork;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +13,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
+builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 
 var app = builder.Build();
 
