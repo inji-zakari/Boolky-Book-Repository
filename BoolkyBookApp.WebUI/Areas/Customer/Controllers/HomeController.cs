@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace BoolkyBookApp.WebUI.Controllers
+namespace BoolkyBook.WebUI.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {

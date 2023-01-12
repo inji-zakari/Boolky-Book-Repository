@@ -6,7 +6,7 @@ using BulkyBook.Repository.Repositories;
 using BulkyBook.Repository.UnitOfWork;
 using Microsoft.AspNetCore.Mvc;
 
-namespace BoolkyBook.WebUI.Controllers
+namespace BoolkyBook.WebUI.Areas.Admin.Controllers
 {
     public class CategoryController : Controller
     {

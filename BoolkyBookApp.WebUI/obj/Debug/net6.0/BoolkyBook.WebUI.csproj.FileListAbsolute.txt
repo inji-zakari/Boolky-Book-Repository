@@ -52,7 +52,6 @@ C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\BoolkyB
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\BoolkyBook.WebUI.RazorAssemblyInfo.cs
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\scopedcss\bundle\BoolkyBook.WebUI.styles.css
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\scopedcss\projectbundle\BoolkyBook.WebUI.bundle.scp.css
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\BoolkyBook.WebUI.csproj.CopyComplete
@@ -269,3 +268,4 @@ C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\bin\Debug\net6.0\runtime
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\Desktop\BoolkyBookApp\BoolkyBookApp.WebUI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
