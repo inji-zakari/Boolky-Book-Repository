@@ -109,10 +109,6 @@ namespace BulkyBook.Repository.Migrations
                     b.Property<decimal>("ListPrice")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
@@ -121,6 +117,10 @@ namespace BulkyBook.Repository.Migrations
 
                     b.Property<decimal>("Price50")
                         .HasColumnType("decimal(18,2)");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("UpdateDate")
                         .HasColumnType("datetime2");
